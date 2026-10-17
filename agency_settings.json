@@ -1,0 +1,18 @@
+{
+    "agency_name": "Vaishali Indane Gas Service",
+    "admin_pin": "1234",
+    "delivery_boys": [
+        "Ramchandrabhai",
+        "Ashvinbhai",
+        "Sunilbhai CT",
+        "Mukeshbhai",
+        "Sajidbhai",
+        "Sattarbhai",
+        "Op Ramchandra"
+    ],
+    "rates": {
+        "14.2 Kg Domestic": 948,
+        "19 Kg Commercial": 1850,
+        "5 Kg Chhotu": 315
+    }
+}

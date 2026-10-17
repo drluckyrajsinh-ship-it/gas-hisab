@@ -1,0 +1,9 @@
+@echo off
+title Gas Agency Daily Hisab Software
+echo ===================================================
+echo   Gas Agency Hisab Software Chalu Thai Rahyu Che...
+echo   Kripya aa kaali (black) window bandh na karsho!
+echo ===================================================
+cd /d "%~dp0"
+python -m streamlit run data.py
+pause
